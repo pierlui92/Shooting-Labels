@@ -1,2 +1,2 @@
 # Shooting-Labels
-Coming in August.
+Coming soon.
