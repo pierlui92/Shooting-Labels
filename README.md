@@ -1,5 +1,5 @@
 # Shooting-Labels
 
-[![Watch the video](ShootingLabelsPreview.png)](https://youtu.be/4JkTkSA_eyk)
+[![Watch the video](ShootingLabelsPreview.png)](https://youtu.be/96vsTui8ZLg)
 
 Coming soon.
