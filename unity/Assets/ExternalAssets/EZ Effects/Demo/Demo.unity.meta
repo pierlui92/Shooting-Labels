@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd9d3e28745e6a8479661f50b4980d54
+labels:
+- Effects
+- MuzzleFlash
+- Impact
+- Tracer
+- Particles
+- Light
+- ParticleSystem
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

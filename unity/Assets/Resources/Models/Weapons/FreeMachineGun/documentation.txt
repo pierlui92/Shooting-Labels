@@ -1,0 +1,18 @@
+Thanks for downloading this asset !
+If you like it, please rate, it will help me create more free awesome assets :) 
+
+Models:
+This package contain 1 machine gun model. 
+Model is skinned with animations. 
+Animation was created in unity. It's very easy to create your own animations using unity animation tool. 
+
+Shaders and materials:
+- 10 Realistic materials using  Bumped Diffuse Colour Specular shader- Diffuse, Specular, Normal and Gloss as float.
+- But you can use simpler shader like Bumped Diffuse.
+- 10 Material using only diffuse
+
+There is a way to create more combinations. You can use MachineGun_toon_diffuse.psd . Change global color, or switch on/off camuflage and change his color. 
+
+Check my character using this machine gun:
+https://www.assetstore.unity3d.com/en/#!/content/19743
+https://www.assetstore.unity3d.com/en/#!/content/20339
