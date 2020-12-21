@@ -4,7 +4,7 @@
 ### Requirements
 * Python with open3d library (version 0.5.0.0)
 * Blender 2.79b
-* Unity 
+* Unity recommended 2018.2
 * SteamVR
 * HTC VIVE
 * OS Windows 8.1 or higher
@@ -18,7 +18,7 @@ pip3 install open3d-python==0.5.0.0
 ```
 Now install [Blender](https://download.blender.org/release/Blender2.79/) choosing version 2.79b for Windows. After that make sure you can run this application using the shell (type "blender" in WPS. The application should open). If not add the blender path to the environment variables.
 
-Unity will be used as a game enigne so we need to install it. First, download and install the [Unity Hub](https://unity3d.com/get-unity/download) and then, form the [Unity Archive](https://unity3d.com/get-unity/download/archive), choose a version, it will install automatically.
+Unity will be used as a game enigne so we need to install it. First, download and install the [Unity Hub](https://unity3d.com/get-unity/download) and then, form the [Unity Archive](https://unity3d.com/get-unity/download/archive), choose a version (recommended 2018.2), it will install automatically.
 
 To label, we need the HTC VIVE. This device needs a program to work, [SteamVR](https://store.steampowered.com/app/250820/SteamVR/) available on Steam. 
 
@@ -72,6 +72,7 @@ You can find the output of this procedure in the selected path. Copy and paste t
 Now we are ready to start the application. 
 
 ##### In game
+* First, you have to set the value of some variables, go in Assets/Resources and open the config file. The most important is pointcloud, set true if you wanna load a pointcloud or set false if you wanna load a mesh.
 * Start SteamVR and make sure all the devices are correctly detected. 
 * Open the Unity Hub panel.
 ![image](Readme/5.PNG)
@@ -80,12 +81,7 @@ Now we are ready to start the application.
 * Browse to the local directory where the repository was downloaded to and click Select Folder:
 ![image3](Readme/6.PNG)
 When you start the application for the first time or when you want to load a new mesh for your project you have to load it. 
-* First, you have to set the boolean value of two variables called pointcloud. If you wanna load a pointcloud you have to set the pointcloud variable in the inspector. If you wanna load a mesh you have to unset the variable.
-
-![image4](Readme/pointcloudload.PNG)
-* Do the same in "Controller (right) -> Model". 
-
-![image](Readme/pointcloudloadmodel.PNG)
+* Add openVr plugin, Window->Package Manager, select “OpenVR” in the package list and click install. Restart Unity
 * Open the ``` Assets/Scenes/Menu``` within the Unity software.
 * Now, by clicking the play button, you can start the software. 
 
