@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bbad4c1c2c5bd140b0be522eeb6bb80, type: 3}
+  m_Name: MuzzleEffect
+  m_EditorClassIdentifier: 
+  Template: {fileID: 100000, guid: 997aeca028bcc4b4482064adb1b37843, type: 2}
+  Sounds:
+  - {fileID: 8300000, guid: 0ff395c2a11195f4c8c8159ea1fa7892, type: 3}
+  PoolSize: 50

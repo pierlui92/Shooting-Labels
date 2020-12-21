@@ -1,0 +1,10 @@
+#boolean
+pointcloud, false
+#float
+scale, 1
+#boolean
+invertYZ, true
+#boolean
+forceReload, true
+#boolean
+rightToLeftHand, true

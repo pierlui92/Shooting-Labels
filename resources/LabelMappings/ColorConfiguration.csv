@@ -1,0 +1,16 @@
+ID,Class,R,G,B
+0,unlabel,255,255,255
+1,bed,240,18,190
+2,books,255,220,0
+3,ceiling,61,153,112
+4,chair,46,204,64
+5,floor,0,31,63
+6,forniture,177,13,201
+7,object,57,204,204
+8,picture,255,65,54
+9,sofa,127,219,255
+10,table,133,20,75
+11,tv,1,255,112
+12,wall-door,255,133,27
+13,window-curtain,0,116,217
+14,other,0,0,0
