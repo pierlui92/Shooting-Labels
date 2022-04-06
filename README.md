@@ -1,6 +1,8 @@
 # Shooting Labels 
 ![In game screenshots](Readme/teaser.png)
 
+## [[Paper]](https://arxiv.org/abs/1910.05021) [[Project Page]](https://cvlab-unibo.github.io/shootinglabelsweb/) [[Video]](https://youtu.be/96vsTui8ZLg)
+
 ### Requirements
 * Python with open3d library (version 0.5.0.0)
 * Blender 2.79b
