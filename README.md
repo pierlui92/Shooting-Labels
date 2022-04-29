@@ -3,6 +3,21 @@
 
 ## [[Paper]](https://arxiv.org/abs/1910.05021) [[Project Page]](https://cvlab-unibo.github.io/shootinglabelsweb/) [[Video]](https://youtu.be/96vsTui8ZLg)
 
+## Citation
+If you find our work useful in your project please consider citing our paper:
+
+```
+@inproceedings{ramirez2020shooting,
+  title={Shooting labels: 3D semantic labeling by virtual reality},
+  author={Ramirez, Pierluigi Zama and Paternesi, Claudio and De Luigi, Luca and Lella, Luigi and De Gregorio, Daniele and Di Stefano, Luigi},
+  booktitle={2020 IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR)},
+  pages={99--106},
+  year={2020},
+  organization={IEEE}
+}
+
+```
+
 ### Requirements
 * Python with open3d library (version 0.5.0.0)
 * Blender 2.79b
