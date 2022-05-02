@@ -106,6 +106,6 @@ Load the new mesh by clicking the "Load New Mesh" Button or if the mesh is alrea
 To learn the controls you can use the "Tutorial".
 When you finish labeling you can choose between "Save", and continue the project later (choose Load Last Save in the Main Menu), or "Export", in order to export your files. If you choose "Save", your files will be stored in "unity/Assets/Data/Saves". If you choose "Export" you will find your files in "unity/Assets/Data/Export".
 
-## Aknowlodgments 
+## Acknowledgments 
 
 We gratefully thank [_T3Lab_](https://www.t3lab.it/) for their fundings and supporting the project.
