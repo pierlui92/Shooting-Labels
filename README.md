@@ -108,4 +108,4 @@ When you finish labeling you can choose between "Save", and continue the project
 
 ## Acknowledgments 
 
-We gratefully thank [_T3Lab_](https://www.t3lab.it/) for their fundings and supporting the project.
+We gratefully thank [_T3Lab_](https://www.t3lab.it/) for supporting the project.
